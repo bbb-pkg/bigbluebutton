@@ -1,0 +1,12 @@
+Package: bigbluebutton
+Version: 1:2.2.0-5
+License: unknown
+Vendor: BigBlueButon
+Architecture: amd64
+Maintainer: ffdixon@bigbluebutton.org
+Installed-Size: 7
+Depends: bbb-config
+Section: default
+Priority: extra
+Homepage: http://bigbluebutton.org/
+Description: Open source web conferencing platform (bbb)
